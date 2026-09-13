@@ -1,0 +1,1 @@
+import{_ as e}from"./HourlyDataRecorder.vue_vue_type_script_setup_true_lang-DkGspTDe.js";import{d as a,c as r,l as n,X as s,o as c}from"./index-CH2lQAaI.js";const f=a({__name:"FreezerDataRecordView",setup(o){return(t,m)=>(c(),r(e,{"entity-label":"Freezer",machines:n(s).freezers},null,8,["machines"]))}});export{f as default};

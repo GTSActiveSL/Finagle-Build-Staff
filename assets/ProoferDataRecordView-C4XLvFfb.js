@@ -1,0 +1,1 @@
+import{_ as e}from"./HourlyDataRecorder.vue_vue_type_script_setup_true_lang-DkGspTDe.js";import{d as o,c as a,l as r,X as n,o as s}from"./index-CH2lQAaI.js";const i=o({__name:"ProoferDataRecordView",setup(c){return(t,m)=>(s(),a(e,{"entity-label":"Proofer",machines:r(n).proofers},null,8,["machines"]))}});export{i as default};
